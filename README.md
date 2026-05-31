@@ -97,7 +97,7 @@ drone-position-clustering/
 ├── images/
 │   └── sample_snapshot_clusters.png
 ├── notebooks/
-│   └── exploration.ipynb
+│   └── cod.ipynb
 ├── outputs/
 │   └── submission.csv
 ├── src/
