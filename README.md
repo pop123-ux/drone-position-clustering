@@ -171,4 +171,9 @@ docs/medium_article.md
 
 ## License
 
-This project is released under the MIT License.
+MIT
+
+## 🔗 More
+
+- Author: [@pop123-ux](https://github.com/pop123-ux)
+- Medium write-ups: [medium.com/@Pop123](https://medium.com/@Pop123)
